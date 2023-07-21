@@ -1,0 +1,208 @@
+{
+  "chefs": [
+    {
+      "name": "Chef John Smith",
+      "image": "https://example.com/chef1.jpg",
+      "yearsOfExperience": 15,
+      "bio": "Chef John Smith is a passionate chef with extensive experience in Mexican cuisine.",
+      "numberOfRecipes": 4,
+      "likes": 25000,
+      "recipes": [
+        {
+          "name": "Tacos al Pastor",
+          "ingredients": ["Pork", "Pineapple", "Onion", "Cilantro", "Tortillas"],
+          "cookingMethod": "Grill the marinated pork with pineapple on a spit, serve in tortillas with onions and cilantro.",
+          "rating": 4.8
+        },
+        {
+          "name": "Chicken Enchiladas",
+          "ingredients": ["Chicken", "Tortillas", "Tomato Sauce", "Cheese", "Onion"],
+          "cookingMethod": "Roll shredded chicken in tortillas, cover with tomato sauce and cheese, bake until bubbly.",
+          "rating": 4.7
+        },
+        {
+          "name": "Guacamole",
+          "ingredients": ["Avocado", "Tomato", "Onion", "Lime", "Salt"],
+          "cookingMethod": "Mash avocados, mix with diced tomato, onion, lime juice, and salt.",
+          "rating": 4.9
+        },
+        {
+          "name": "Chiles Rellenos",
+          "ingredients": ["Poblano Peppers", "Cheese", "Egg", "Flour", "Tomato Sauce"],
+          "cookingMethod": "Stuff roasted peppers with cheese, coat in egg and flour, fry until golden, serve with tomato sauce.",
+          "rating": 4.6
+        }
+      ]
+    },
+    {
+      "name": "Chef Maria Gonzalez",
+      "image": "https://example.com/chef2.jpg",
+      "yearsOfExperience": 12,
+      "bio": "Chef Maria Gonzalez is known for her traditional Mexican recipes passed down through generations.",
+      "numberOfRecipes": 4,
+      "likes": 18000,
+      "recipes": [
+        {
+          "name": "Carne Asada",
+          "ingredients": ["Beef", "Citrus Marinade", "Onion", "Cilantro", "Tortillas"],
+          "cookingMethod": "Marinate beef in citrus, grill to perfection, serve with onions, cilantro, and tortillas.",
+          "rating": 4.7
+        },
+        {
+          "name": "Enchiladas Verdes",
+          "ingredients": ["Chicken", "Tortillas", "Green Chile Sauce", "Cheese", "Cream"],
+          "cookingMethod": "Roll shredded chicken in tortillas, cover with green chile sauce and cheese, bake with cream.",
+          "rating": 4.8
+        },
+        {
+          "name": "Pico de Gallo",
+          "ingredients": ["Tomato", "Onion", "Cilantro", "Jalapeno", "Lime"],
+          "cookingMethod": "Dice tomatoes, onions, jalapenos, and cilantro, mix with lime juice.",
+          "rating": 4.9
+        },
+        {
+          "name": "Churros",
+          "ingredients": ["Flour", "Sugar", "Egg", "Milk", "Cinnamon"],
+          "cookingMethod": "Mix dough, pipe into hot oil, fry until golden, roll in cinnamon sugar.",
+          "rating": 4.6
+        }
+      ]
+    },
+    {
+      "name": "Chef Carlos Hernandez",
+      "image": "https://example.com/chef3.jpg",
+      "yearsOfExperience": 20,
+      "bio": "Chef Carlos Hernandez is a master in crafting bold and flavorful Mexican dishes.",
+      "numberOfRecipes": 4,
+      "likes": 30000,
+      "recipes": [
+        {
+          "name": "Carnitas",
+          "ingredients": ["Pork Shoulder", "Orange Juice", "Onion", "Cilantro", "Tortillas"],
+          "cookingMethod": "Slow-cook pork in orange juice until tender, shred, serve with onions, cilantro, and tortillas.",
+          "rating": 4.9
+        },
+        {
+          "name": "Chile Relleno Casserole",
+          "ingredients": ["Poblano Peppers", "Cheese", "Egg", "Tomato Sauce", "Cream"],
+          "cookingMethod": "Layer roasted peppers with cheese, cover with egg and tomato sauce, bake with cream.",
+          "rating": 4.7
+        },
+        {
+          "name": "Salsa Roja",
+          "ingredients": ["Tomato", "Garlic", "Onion", "Jalapeno", "Cilantro"],
+          "cookingMethod": "Roast tomatoes, garlic, onions, and jalapenos, blend with cilantro.",
+          "rating": 4.8
+        },
+        {
+          "name": "Tres Leches Cake",
+          "ingredients": ["Cake", "Evaporated Milk", "Sweetened Condensed Milk", "Heavy Cream"],
+          "cookingMethod": "Soak cake in mixture of milks, top with whipped cream.",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "name": "Chef Sofia Rodriguez",
+      "image": "https://example.com/chef4.jpg",
+      "yearsOfExperience": 8,
+      "bio": "Chef Sofia Rodriguez creates innovative and contemporary Mexican dishes.",
+      "numberOfRecipes": 4,
+      "likes": 22000,
+      "recipes": [
+        {
+          "name": "Shrimp Ceviche",
+          "ingredients": ["Shrimp", "Lime Juice", "Tomato", "Avocado", "Cilantro"],
+          "cookingMethod": "Marinate shrimp in lime juice, mix with tomatoes, avocado, and cilantro.",
+          "rating": 4.8
+        },
+        {
+          "name": "Mole Poblano",
+          "ingredients": ["Chicken", "Chiles", "Chocolate", "Spices", "Sesame Seeds"],
+          "cookingMethod": "Simmer chicken in rich sauce made with chiles, chocolate, spices, and sesame seeds.",
+          "rating": 4.6
+        },
+        {
+          "name": "Mexican Street Corn",
+          "ingredients": ["Corn", "Mayonnaise", "Cotija Cheese", "Chili Powder", "Lime"],
+          "cookingMethod": "Grill corn, spread with mayonnaise, sprinkle with cotija cheese, chili powder, and lime.",
+          "rating": 4.7
+        },
+        {
+          "name": "Chocoflan",
+          "ingredients": ["Flan", "Chocolate Cake", "Cajeta Sauce"],
+          "cookingMethod": "Layer flan and chocolate cake, bake, top with cajeta sauce.",
+          "rating": 4.9
+        }
+      ]
+    },
+    {
+      "name": "Chef Alejandro Martinez",
+      "image": "https://example.com/chef5.jpg",
+      "yearsOfExperience": 10,
+      "bio": "Chef Alejandro Martinez brings traditional Mexican flavors to modern dishes.",
+      "numberOfRecipes": 4,
+      "likes": 19000,
+      "recipes": [
+        {
+          "name": "Pollo en Mole Verde",
+          "ingredients": ["Chicken", "Green Mole Sauce", "Sesame Seeds", "Rice", "Tortillas"],
+          "cookingMethod": "Simmer chicken in green mole sauce, serve with sesame seeds, rice, and tortillas.",
+          "rating": 4.7
+        },
+        {
+          "name": "Pozole",
+          "ingredients": ["Hominy", "Pork", "Chiles", "Radish", "Cabbage"],
+          "cookingMethod": "Cook hominy and pork in chile broth, serve with radish and cabbage.",
+          "rating": 4.9
+        },
+        {
+          "name": "Mexican Rice",
+          "ingredients": ["Rice", "Tomato Sauce", "Onion", "Garlic", "Vegetable Broth"],
+          "cookingMethod": "Sauté rice with onion and garlic, stir in tomato sauce and vegetable broth.",
+          "rating": 4.8
+        },
+        {
+          "name": "Champurrado",
+          "ingredients": ["Corn Flour", "Chocolate", "Milk", "Cinnamon"],
+          "cookingMethod": "Boil corn flour and chocolate with milk, add cinnamon.",
+          "rating": 4.6
+        }
+      ]
+    },
+    {
+      "name": "Chef Gabriela Fernandez",
+      "image": "https://example.com/chef6.jpg",
+      "yearsOfExperience": 14,
+      "bio": "Chef Gabriela Fernandez specializes in creating flavorful and vibrant Mexican dishes.",
+      "numberOfRecipes": 4,
+      "likes": 26000,
+      "recipes": [
+        {
+          "name": "Carnitas Tacos",
+          "ingredients": ["Pork", "Orange Juice", "Onion", "Cilantro", "Tortillas"],
+          "cookingMethod": "Slow-cook pork in orange juice until tender, shred, serve in tortillas with onions and cilantro.",
+          "rating": 4.8
+        },
+        {
+          "name": "Chile Relleno",
+          "ingredients": ["Poblano Peppers", "Cheese", "Egg", "Tomato Sauce"],
+          "cookingMethod": "Stuff roasted peppers with cheese, coat in egg, fry until golden, serve with tomato sauce.",
+          "rating": 4.7
+        },
+        {
+          "name": "Salsa Verde",
+          "ingredients": ["Tomatillos", "Jalapeno", "Onion", "Cilantro", "Lime"],
+          "cookingMethod": "Boil tomatillos and jalapenos, blend with onion, cilantro, and lime.",
+          "rating": 4.9
+        },
+        {
+          "name": "Tres Leches Cupcakes",
+          "ingredients": ["Cake", "Evaporated Milk", "Sweetened Condensed Milk", "Heavy Cream"],
+          "cookingMethod": "Soak cupcakes in mixture of milks, top with whipped cream.",
+          "rating": 4.6
+        }
+      ]
+    }
+  ]
+}

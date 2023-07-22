@@ -10,6 +10,11 @@ app.get("/", (req, res) => {
   res.send("Hello, chefs!");
 });
 
+//get all the data
+app.get("/chef",(req,res)=>{
+    res.send(data);
+})
+
 
 
 // Start the server

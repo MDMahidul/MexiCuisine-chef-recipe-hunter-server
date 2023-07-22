@@ -15,7 +15,12 @@ app.get("/chef",(req,res)=>{
     res.send(data);
 })
 
-
+//get specific data
+app.get("/chef/:id",(req,res)=>{
+    const id = req.params.id;
+    const item = data[0]?.chefs?.find((ch=>ch.id == id));
+    res.send({item});
+})
 
 // Start the server
 app.listen(port, () => {

@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
-const port = process.env.PORT || 5000; //use this port to run the app
 const cors = require('cors')
+const port = process.env.PORT || 5000; 
 const data = require('./data/chef.json');
 app.use(cors());
 

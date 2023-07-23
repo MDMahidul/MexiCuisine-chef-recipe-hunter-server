@@ -10,8 +10,9 @@
       "likes": 180,
       "recipes": [
         {
+          "id": 1,
           "name": "Street Tacos",
-          "imageURL": "https://example.com/street-tacos.jpg",
+          "imageURL": "https://foodieandwine.com/wp-content/uploads/2022/03/Carne_Asada_Street_Tacos_3-1-500x375.jpg",
           "ingredients": [
             "Grilled meat (beef or chicken)",
             "Onion",
@@ -20,11 +21,12 @@
             "Tortillas"
           ],
           "cookingMethod": "Grill the meat, chop it into small pieces, and serve in tortillas with toppings.",
-          "rating": 4.9
+          "rating": 4.3
         },
         {
+          "id": 2,
           "name": "Mexican Corn (Elote)",
-          "imageURL": "https://example.com/mexican-corn.jpg",
+          "imageURL": "https://www.seriouseats.com/thmb/6tXTfp2-QGmVLazenk672sgUdRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210630-elotes-melissa-hom-seriouseats-5-895932860b0d4f88b1b330e574036305.jpg",
           "ingredients": [
             "Corn on the cob",
             "Mayonnaise",
@@ -33,11 +35,12 @@
             "Lime"
           ],
           "cookingMethod": "Grill or boil the corn, then spread with mayo, cheese, and spices.",
-          "rating": 4.7
+          "rating": 3.4
         },
         {
+          "id": 3,
           "name": "Chiles Rellenos",
-          "imageURL": "https://example.com/chiles-rellenos.jpg",
+          "imageURL": "https://www.foodnetwork.com/content/dam/images/food/video/0/01/013/0137/0137352.jpg",
           "ingredients": [
             "Poblano peppers",
             "Cheese",
@@ -46,11 +49,12 @@
             "Flour"
           ],
           "cookingMethod": "Stuff the peppers with cheese, dip in egg batter, and fry.",
-          "rating": 4.5
+          "rating": 4.1
         },
         {
+          "id": 4,
           "name": "Mole Poblano",
-          "imageURL": "https://example.com/mole-poblano.jpg",
+          "imageURL": "https://www.seriouseats.com/thmb/TOQrlZhSHX6NwXXOT7vAIY7pMLY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__10__20121024-227412-mole-poblano-8aa343f2cb384508834ed888a4b65df2.jpg",
           "ingredients": ["Chiles", "Chocolate", "Nuts", "Spices", "Chicken"],
           "cookingMethod": "Grind the ingredients into a sauce, then simmer with chicken.",
           "rating": 4.6
@@ -67,8 +71,9 @@
       "likes": 150,
       "recipes": [
         {
+          "id": 1,
           "name": "Avocado Toast with Tajin",
-          "imageURL": "https://example.com/avocado-toast.jpg",
+          "imageURL": "https://makeyourmeals.com/wp-content/uploads/2018/07/featured-avocado-toast-735x490.jpg.webp",
           "ingredients": [
             "Avocado",
             "Bread",
@@ -77,11 +82,12 @@
             "Cilantro"
           ],
           "cookingMethod": "Mash the avocado and spread it on toasted bread, then top with Tajin and cilantro.",
-          "rating": 4.8
+          "rating": 4.3
         },
         {
+          "id": 2,
           "name": "Mexican Caesar Salad",
-          "imageURL": "https://example.com/caesar-salad.jpg",
+          "imageURL": "https://img.taste.com.au/SrcTo5kN/taste/2021/02/vegetarian-mexican-caesar-salad-169417-2.jpg",
           "ingredients": [
             "Romaine lettuce",
             "Tortilla strips",
@@ -93,8 +99,9 @@
           "rating": 4.6
         },
         {
+          "id": 3,
           "name": "Shrimp Ceviche",
-          "imageURL": "https://example.com/ceviche.jpg",
+          "imageURL": "https://www.inspiredtaste.net/wp-content/uploads/2019/05/Easy-Shrimp-Ceviche-Recipe-3-1200.jpg",
           "ingredients": [
             "Shrimp",
             "Tomatoes",
@@ -103,11 +110,12 @@
             "Lime juice"
           ],
           "cookingMethod": "Marinate shrimp in lime juice and mix with chopped vegetables.",
-          "rating": 4.7
+          "rating": 4.2
         },
         {
+          "id": 4,
           "name": "Mexican Sopes",
-          "imageURL": "https://example.com/sopes.jpg",
+          "imageURL": "https://www.mexicanplease.com/wp-content/uploads/2020/08/Sopes-With-Refried-Beans-and-Cheese-11.jpg",
           "ingredients": [
             "Masa dough",
             "Refried beans",
@@ -130,15 +138,17 @@
       "likes": 200,
       "recipes": [
         {
+          "id": 1,
           "name": "Mexican-Inspired Paella",
-          "imageURL": "https://example.com/paella.jpg",
+          "imageURL": "https://iamafoodblog.b-cdn.net/wp-content/uploads/2012/07/paella-9174.jpg",
           "ingredients": ["Rice", "Shrimp", "Chicken", "Chorizo", "Saffron"],
           "cookingMethod": "Sauté the ingredients and cook with rice in a paella pan.",
           "rating": 4.9
         },
         {
+          "id": 2,
           "name": "Mexican Tostadas",
-          "imageURL": "https://example.com/tostadas.jpg",
+          "imageURL": "https://www.mylatinatable.com/wp-content/uploads/2018/04/Tostadas-3.jpg",
           "ingredients": [
             "Tostada shells",
             "Refried beans",
@@ -150,8 +160,9 @@
           "rating": 4.7
         },
         {
+          "id": 3,
           "name": "Churro Ice Cream Sandwich",
-          "imageURL": "https://example.com/churro-ice-cream.jpg",
+          "imageURL": "https://www.somewhatsimple.com/wp-content/uploads/2016/06/Churro-Ice-Cream-Sandwich_07.jpg",
           "ingredients": [
             "Churros",
             "Vanilla ice cream",
@@ -162,8 +173,9 @@
           "rating": 4.8
         },
         {
+          "id": 4,
           "name": "Mexican Shrimp Cocktail",
-          "imageURL": "https://example.com/shrimp-cocktail.jpg",
+          "imageURL": "https://feastandmerriment.com/wp-content/uploads/2021/05/Mexican-shrimpcocktail.jpeg",
           "ingredients": [
             "Shrimp",
             "Tomato juice",
@@ -186,8 +198,9 @@
       "likes": 230,
       "recipes": [
         {
+          "id": 1,
           "name": "Carnitas Tacos",
-          "imageURL": "https://example.com/carnitas-tacos.jpg",
+          "imageURL": "https://whatsgabycooking.com/wp-content/uploads/2019/03/All-Clad-__-Carnitas-Tacos-580x870-1.jpg",
           "ingredients": [
             "Pork shoulder",
             "Orange juice",
@@ -199,8 +212,9 @@
           "rating": 4.9
         },
         {
+          "id": 2,
           "name": "Mexican Rice",
-          "imageURL": "https://example.com/mexican-rice.jpg",
+          "imageURL": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2020/03/Mexican-Rice-8.jpg",
           "ingredients": [
             "Rice",
             "Tomato sauce",
@@ -209,11 +223,12 @@
             "Chicken broth"
           ],
           "cookingMethod": "Sauté rice with onion and garlic, then cook in tomato sauce and broth.",
-          "rating": 4.7
+          "rating": 4.1
         },
         {
+          "id": 3,
           "name": "Enchiladas Verdes",
-          "imageURL": "https://example.com/enchiladas-verdes.jpg",
+          "imageURL": "https://assets.unileversolutions.com/recipes-v2/244641.jpg",
           "ingredients": [
             "Corn tortillas",
             "Chicken",
@@ -225,8 +240,9 @@
           "rating": 4.8
         },
         {
+          "id": 4,
           "name": "Mexican Fruit Salad",
-          "imageURL": "https://example.com/fruit-salad.jpg",
+          "imageURL": "https://www.champagneandcoffeestains.com/wp-content/uploads/2020/05/close-up-of-fruit-salad-in-bowlJPG-1024x684.jpg",
           "ingredients": [
             "Watermelon",
             "Mango",
@@ -249,8 +265,9 @@
       "likes": 190,
       "recipes": [
         {
+          "id": 1,
           "name": "Vegan Tamales",
-          "imageURL": "https://example.com/vegan-tamales.jpg",
+          "imageURL": "https://www.thespruceeats.com/thmb/FG8n16PPgQJTJcXJRbkpV5-wHeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/vegan-tamales-5205562-hero-01-b1401a8506744ddda6c45af487e4d38f.jpg",
           "ingredients": [
             "Masa dough",
             "Vegetables",
@@ -259,11 +276,12 @@
             "Spices"
           ],
           "cookingMethod": "Spread masa on corn husks, fill with vegetables and salsa, and steam.",
-          "rating": 4.9
+          "rating": 4.3
         },
         {
+          "id": 2,
           "name": "Mexican Quinoa Salad",
-          "imageURL": "https://example.com/quinoa-salad.jpg",
+          "imageURL": "https://www.recipegirl.com/wp-content/uploads/2012/03/Mexican-Quinoa-Salad-4.jpg",
           "ingredients": [
             "Quinoa",
             "Black beans",
@@ -275,8 +293,9 @@
           "rating": 4.7
         },
         {
+          "id": 3,
           "name": "Vegan Chilaquiles",
-          "imageURL": "https://example.com/vegan-chilaquiles.jpg",
+          "imageURL": "https://cdn.vegetariantimes.com/wp-content/uploads/2020/07/vegan-chilaquiles.jpg?width=730",
           "ingredients": [
             "Tortilla chips",
             "Salsa roja",
@@ -285,11 +304,12 @@
             "Cashew cream"
           ],
           "cookingMethod": "Layer chips with salsa and toppings, then bake.",
-          "rating": 4.8
+          "rating": 3.5
         },
         {
+          "id": 4,
           "name": "Mexican Stuffed Peppers",
-          "imageURL": "https://example.com/stuffed-peppers.jpg",
+          "imageURL": "https://www.allrecipes.com/thmb/_Vwi9kpq8yV33QgModve0zAKK8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/231514-vegetarian-mexican-inspired-stuffed-peppers-3x4-568-copy-e6ebf159f8c44b2ead7262ad4040df39.jpg",
           "ingredients": [
             "Bell peppers",
             "Rice",
@@ -312,8 +332,9 @@
       "likes": 180,
       "recipes": [
         {
+          "id": 1,
           "name": "Street Tacos",
-          "imageURL": "https://example.com/street-tacos.jpg",
+          "imageURL": "https://foodieandwine.com/wp-content/uploads/2022/03/Carne_Asada_Street_Tacos_3-1-500x375.jpg",
           "ingredients": [
             "Grilled meat (beef or chicken)",
             "Onion",
@@ -322,11 +343,12 @@
             "Tortillas"
           ],
           "cookingMethod": "Grill the meat, chop it into small pieces, and serve in tortillas with toppings.",
-          "rating": 4.9
+          "rating": 4.3
         },
         {
+          "id": 2,
           "name": "Mexican Corn (Elote)",
-          "imageURL": "https://example.com/mexican-corn.jpg",
+          "imageURL": "https://www.seriouseats.com/thmb/6tXTfp2-QGmVLazenk672sgUdRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210630-elotes-melissa-hom-seriouseats-5-895932860b0d4f88b1b330e574036305.jpg",
           "ingredients": [
             "Corn on the cob",
             "Mayonnaise",
@@ -335,11 +357,12 @@
             "Lime"
           ],
           "cookingMethod": "Grill or boil the corn, then spread with mayo, cheese, and spices.",
-          "rating": 4.7
+          "rating": 3.4
         },
         {
+          "id": 3,
           "name": "Chiles Rellenos",
-          "imageURL": "https://example.com/chiles-rellenos.jpg",
+          "imageURL": "https://www.foodnetwork.com/content/dam/images/food/video/0/01/013/0137/0137352.jpg",
           "ingredients": [
             "Poblano peppers",
             "Cheese",
@@ -348,11 +371,12 @@
             "Flour"
           ],
           "cookingMethod": "Stuff the peppers with cheese, dip in egg batter, and fry.",
-          "rating": 4.5
+          "rating": 4.1
         },
         {
+          "id": 4,
           "name": "Mole Poblano",
-          "imageURL": "https://example.com/mole-poblano.jpg",
+          "imageURL": "https://www.seriouseats.com/thmb/TOQrlZhSHX6NwXXOT7vAIY7pMLY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2012__10__20121024-227412-mole-poblano-8aa343f2cb384508834ed888a4b65df2.jpg",
           "ingredients": ["Chiles", "Chocolate", "Nuts", "Spices", "Chicken"],
           "cookingMethod": "Grind the ingredients into a sauce, then simmer with chicken.",
           "rating": 4.6
